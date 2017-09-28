@@ -14,7 +14,6 @@ Deployment Guide
 ```bash
 pip install Geo-validator
 ```
-<img src="docs/1.png" />
 
 <img src="docs/2.png" />
 
@@ -39,7 +38,7 @@ Geofencingvalidator <input.csv> <output.csv>
 
 <img src="docs/5.png" />
 
-<img src="docs/6.png" /><img src="docs/7.png" />
+<img src="docs/6.png" /><img src="docs/1.png" />
 
 
 
