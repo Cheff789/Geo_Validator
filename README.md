@@ -14,16 +14,17 @@ Deployment Guide
 ```bash
 pip install Geo-validator
 ```
-<img src="docs/1.jpg" />
+<img src="docs/1.png" />
 
-<img src="docs/2.jpg" />
+<img src="docs/2.png" />
 
 ```bash
 Geofencingvalidator
 ```
-<img src="docs/3.jpg" />
+<img src="docs/3.png" />
 
-<img src="docs/4.jpg" />
+<img src="docs/4.png" />
+
 * Open config.cfg and edit values:
     * Key=yourkey
         * This is your Googlemaps Api key
@@ -36,9 +37,9 @@ Geofencingvalidator
 Geofencingvalidator <input.csv> <output.csv>
 ```
 
-<img src="docs/5.jpg" />
+<img src="docs/5.png" />
 
-<img src="docs/6.jpg" /><img src="docs/7.jpg" />
+<img src="docs/6.png" /><img src="docs/7.png" />
 
 
 
